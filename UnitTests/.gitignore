@@ -342,6 +342,7 @@ healthchecksdb
 # Test files
 Results/
 Coverage/
+coveragereport/
 
 # Generated Files
 *.feature.cs
@@ -351,4 +352,3 @@ Output/
 Dacpac/
 
 .nuke/temp/
-/UnitTests/coverage.cobertura.xml
