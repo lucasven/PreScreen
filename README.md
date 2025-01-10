@@ -1,3 +1,8 @@
+## Code Coverage results:
+
+![Coverage Results](image.png)
+
+
 ## Impinj Coding Assesment:
 
 ```
