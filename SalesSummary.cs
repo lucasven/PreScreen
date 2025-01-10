@@ -1,5 +1,8 @@
-﻿namespace PreScreen
+﻿using System.Diagnostics.CodeAnalysis;
+
+namespace PreScreen
 {
+    [ExcludeFromCodeCoverage]
     public class SalesSummary
     {
         public decimal MedianUnitCost { get; set; }

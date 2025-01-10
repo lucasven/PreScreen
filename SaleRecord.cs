@@ -1,7 +1,9 @@
 ﻿using CsvHelper.Configuration.Attributes;
+using System.Diagnostics.CodeAnalysis;
 
 namespace PreScreen
 {
+    [ExcludeFromCodeCoverage]
     public class SaleRecord
     {
         public string Region { get; set; }
